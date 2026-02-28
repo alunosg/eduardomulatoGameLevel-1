@@ -1,0 +1,11 @@
+﻿*.vsconfig
+*.csproj
+*.sln
+*.slnx
+Eduardo Mulato Game level-1/UserSettings
+Eduardo Mulato Game level-1/Temp
+Eduardo Mulato Game level-1/obj
+Eduardo Mulato Game level-1/Logs
+Eduardo Mulato Game level-1/Library
+Eduardo Mulato Game level-1/.vs
+Eduardo Mulato Game level-1/.vscode
