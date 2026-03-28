@@ -183,7 +183,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -10
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0, g: 0.7490196, b: 1, a: 1}
@@ -204,8 +204,8 @@ Transform:
   m_GameObject: {fileID: 467279964}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0012, y: 1.0146, z: 0}
-  m_LocalScale: {x: 21.596674, y: 8.009763, z: 1}
+  m_LocalPosition: {x: -0.0532, y: 1.0146, z: 0}
+  m_LocalScale: {x: 21.488691, y: 8.009763, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -551,6 +551,7 @@ MonoBehaviour:
   floorLayer:
     serializedVersion: 2
     m_Bits: 55
+  anim: {fileID: 1342431611}
 --- !u!1 &1125564371
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,9 +683,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125564371}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0026, y: -3.6482, z: 0}
-  m_LocalScale: {x: 21.514507, y: 2.6635141, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.0224, y: -3.6482, z: 0}
+  m_LocalScale: {x: 21.553232, y: 2.6635141, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -732,7 +733,7 @@ Animator:
   m_GameObject: {fileID: 1342431609}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cbd01e76980bfdb4086a92dd27f3d02b, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -793,7 +794,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
+  m_Sprite: {fileID: 4723107735738678597, guid: 0586407cde069844088c41043a67f4ca, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -809,5 +810,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 641672202}
-  - {fileID: 1125564374}
   - {fileID: 467279966}
+  - {fileID: 1125564374}

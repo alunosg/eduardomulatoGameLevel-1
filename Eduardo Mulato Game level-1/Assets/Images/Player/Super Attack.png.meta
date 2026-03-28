@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: b496adc268daf614d9c5276b2b704f55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3307466810160546413
+    second: Super Attack_0
+  - first:
+      213: 1516335063683231027
+    second: Super Attack_1
+  - first:
+      213: -3615462332920300898
+    second: Super Attack_2
+  - first:
+      213: -2624090374562830919
+    second: Super Attack_3
+  - first:
+      213: -125410280977661721
+    second: Super Attack_4
+  - first:
+      213: 1078620689686877130
+    second: Super Attack_5
+  - first:
+      213: -5986623493786349574
+    second: Super Attack_6
+  - first:
+      213: 7035120512053295350
+    second: Super Attack_7
+  - first:
+      213: -7531080293887381275
+    second: Super Attack_8
+  - first:
+      213: 6106766359805411314
+    second: Super Attack_9
+  - first:
+      213: 8257135565978660521
+    second: Super Attack_10
+  - first:
+      213: -4593777336777698098
+    second: Super Attack_11
+  - first:
+      213: 3477039144503138375
+    second: Super Attack_12
+  - first:
+      213: -5259126242684446775
+    second: Super Attack_13
+  - first:
+      213: -277987048674866346
+    second: Super Attack_14
+  - first:
+      213: -5216245784722046087
+    second: Super Attack_15
+  - first:
+      213: 2479013207143747370
+    second: Super Attack_16
+  - first:
+      213: 550337665627195129
+    second: Super Attack_17
+  - first:
+      213: -1564023613490646682
+    second: Super Attack_18
+  - first:
+      213: -5202690120166716738
+    second: Super Attack_19
+  - first:
+      213: -8529620754034843754
+    second: Super Attack_20
+  - first:
+      213: -2090119194252802166
+    second: Super Attack_21
+  - first:
+      213: 8703000257595312156
+    second: Super Attack_22
+  - first:
+      213: 638500252438334309
+    second: Super Attack_23
+  - first:
+      213: -7459875705225581246
+    second: Super Attack_24
+  - first:
+      213: 6177304599308708417
+    second: Super Attack_25
+  - first:
+      213: -3412560040329776872
+    second: Super Attack_26
+  - first:
+      213: -7112236378073739707
+    second: Super Attack_27
+  - first:
+      213: -4698327513235360783
+    second: Super Attack_28
+  - first:
+      213: 5342339376923348339
+    second: Super Attack_29
+  - first:
+      213: 8546492432768408780
+    second: Super Attack_30
+  - first:
+      213: 8111842727616402265
+    second: Super Attack_31
+  - first:
+      213: -2851898000414012383
+    second: Super Attack_32
+  - first:
+      213: 7119113644699336444
+    second: Super Attack_33
+  - first:
+      213: -8513526083956765445
+    second: Super Attack_34
+  - first:
+      213: 118820962563563192
+    second: Super Attack_35
+  - first:
+      213: -2324066719801232725
+    second: Super Attack_36
+  - first:
+      213: -2256498642988312837
+    second: Super Attack_37
+  - first:
+      213: -6266133670040131406
+    second: Super Attack_38
+  - first:
+      213: -6613931902766223854
+    second: Super Attack_39
+  - first:
+      213: 8693290909973309020
+    second: Super Attack_40
+  - first:
+      213: 7641634803887085022
+    second: Super Attack_41
+  - first:
+      213: -2301420969333129763
+    second: Super Attack_42
+  - first:
+      213: -4992121968664872698
+    second: Super Attack_43
+  - first:
+      213: 7542907929378382984
+    second: Super Attack_44
+  - first:
+      213: -8756728217921107247
+    second: Super Attack_45
+  - first:
+      213: 3803473024047428166
+    second: Super Attack_46
+  - first:
+      213: -3149195826538842525
+    second: Super Attack_47
+  - first:
+      213: 4435630800456042662
+    second: Super Attack_48
+  - first:
+      213: -349680000532384931
+    second: Super Attack_49
+  - first:
+      213: 1257598079272449427
+    second: Super Attack_50
+  - first:
+      213: -421320429531829243
+    second: Super Attack_51
+  - first:
+      213: -1723324606202805460
+    second: Super Attack_52
+  - first:
+      213: -1005448903090285351
+    second: Super Attack_53
+  - first:
+      213: 5165054566039965011
+    second: Super Attack_54
+  - first:
+      213: 8298035607828132722
+    second: Super Attack_55
+  - first:
+      213: 5320756665517329415
+    second: Super Attack_56
+  - first:
+      213: 1363247983633891128
+    second: Super Attack_57
+  - first:
+      213: 6772903671722199121
+    second: Super Attack_58
+  - first:
+      213: 4921256503364897780
+    second: Super Attack_59
+  - first:
+      213: -6878371546525457268
+    second: Super Attack_60
+  - first:
+      213: 2084736982121627504
+    second: Super Attack_61
+  - first:
+      213: 1803638492865060028
+    second: Super Attack_62
+  - first:
+      213: -2529507427203176740
+    second: Super Attack_63
+  - first:
+      213: -2049664543956151802
+    second: Super Attack_64
+  - first:
+      213: 3766717341175360701
+    second: Super Attack_65
+  - first:
+      213: 1344515104175869601
+    second: Super Attack_66
+  - first:
+      213: 7095144606894859994
+    second: Super Attack_67
+  - first:
+      213: 4799110501392782116
+    second: Super Attack_68
+  - first:
+      213: -274301392067173272
+    second: Super Attack_69
+  - first:
+      213: -81352608850777441
+    second: Super Attack_70
+  - first:
+      213: -3611475622970273955
+    second: Super Attack_71
+  - first:
+      213: 5139044367797291153
+    second: Super Attack_72
+  - first:
+      213: -5453945038509331922
+    second: Super Attack_73
+  - first:
+      213: -8853447872003823015
+    second: Super Attack_74
+  - first:
+      213: 4405473046617097347
+    second: Super Attack_75
+  - first:
+      213: 8496958852069303000
+    second: Super Attack_76
+  - first:
+      213: 420812886474026932
+    second: Super Attack_77
+  - first:
+      213: 1171710965844906594
+    second: Super Attack_78
+  - first:
+      213: 6130130233193093032
+    second: Super Attack_79
+  - first:
+      213: -9201381549170541852
+    second: Super Attack_80
+  - first:
+      213: -7951691869441427194
+    second: Super Attack_81
+  - first:
+      213: 8252408523175845911
+    second: Super Attack_82
+  - first:
+      213: -1677682064302847451
+    second: Super Attack_83
+  - first:
+      213: -4958721414577779529
+    second: Super Attack_84
+  - first:
+      213: -4598373186620836717
+    second: Super Attack_85
+  - first:
+      213: 3294268963478823385
+    second: Super Attack_86
+  - first:
+      213: 8749830867398113868
+    second: Super Attack_87
+  - first:
+      213: -8602912158677982725
+    second: Super Attack_88
+  - first:
+      213: 7044100570421286581
+    second: Super Attack_89
+  - first:
+      213: -558135475543151130
+    second: Super Attack_90
+  - first:
+      213: 7968066780119797458
+    second: Super Attack_91
+  - first:
+      213: 7360958131062314876
+    second: Super Attack_92
+  - first:
+      213: -5414612200523190517
+    second: Super Attack_93
+  - first:
+      213: -8624075619638355328
+    second: Super Attack_94
+  - first:
+      213: 498026352949372545
+    second: Super Attack_95
+  - first:
+      213: 1677497578271576882
+    second: Super Attack_96
+  - first:
+      213: 6078539154128259201
+    second: Super Attack_97
+  - first:
+      213: 2896631161702539222
+    second: Super Attack_98
+  - first:
+      213: -321117283774535872
+    second: Super Attack_99
+  - first:
+      213: 3053198381550530005
+    second: Super Attack_100
+  - first:
+      213: -4998285988701281356
+    second: Super Attack_101
+  - first:
+      213: 201551266823382586
+    second: Super Attack_102
+  - first:
+      213: 2590778152163965823
+    second: Super Attack_103
+  - first:
+      213: -5136182197603167428
+    second: Super Attack_104
+  - first:
+      213: 4149171345742565602
+    second: Super Attack_105
+  - first:
+      213: 7458513097193913481
+    second: Super Attack_106
+  - first:
+      213: 1891685891792000065
+    second: Super Attack_107
+  - first:
+      213: -7505509210626836752
+    second: Super Attack_108
+  - first:
+      213: -3459567309400853651
+    second: Super Attack_109
+  - first:
+      213: 7341860641250109607
+    second: Super Attack_110
+  - first:
+      213: -4976930985277884563
+    second: Super Attack_111
+  - first:
+      213: 1685127266405197011
+    second: Super Attack_112
+  - first:
+      213: -5194993225552345838
+    second: Super Attack_113
+  - first:
+      213: 7175479014220529647
+    second: Super Attack_114
+  - first:
+      213: 622313484776106610
+    second: Super Attack_115
+  - first:
+      213: 1241395664170337802
+    second: Super Attack_116
+  - first:
+      213: -2671942265444185003
+    second: Super Attack_117
+  - first:
+      213: 910443661122371287
+    second: Super Attack_118
+  - first:
+      213: -5885388106081747133
+    second: Super Attack_119
+  - first:
+      213: 2070123338707520515
+    second: Super Attack_120
+  - first:
+      213: -1894802478805835530
+    second: Super Attack_121
+  - first:
+      213: -7059234825073987305
+    second: Super Attack_122
+  - first:
+      213: -3824682452653519724
+    second: Super Attack_123
+  - first:
+      213: -8276035949017417581
+    second: Super Attack_124
+  - first:
+      213: -3011168169547744638
+    second: Super Attack_125
+  - first:
+      213: 4628494555392314327
+    second: Super Attack_126
+  - first:
+      213: 2800924806032821579
+    second: Super Attack_127
+  - first:
+      213: 4123128490129446832
+    second: Super Attack_128
+  - first:
+      213: 5333404443269662644
+    second: Super Attack_129
+  - first:
+      213: 4665437774462823522
+    second: Super Attack_130
+  - first:
+      213: -5481979042607969800
+    second: Super Attack_131
+  - first:
+      213: -5507799638783518112
+    second: Super Attack_132
+  - first:
+      213: -5739903181546026599
+    second: Super Attack_133
+  - first:
+      213: -7439837712058240974
+    second: Super Attack_134
+  - first:
+      213: -8076846763421977726
+    second: Super Attack_135
+  - first:
+      213: -2224673061087818886
+    second: Super Attack_136
+  - first:
+      213: 1851764917083427851
+    second: Super Attack_137
+  - first:
+      213: 1240788278232475081
+    second: Super Attack_138
+  - first:
+      213: -3777494940093658288
+    second: Super Attack_139
+  - first:
+      213: 607757537086420576
+    second: Super Attack_140
+  - first:
+      213: 6607814388002140865
+    second: Super Attack_141
+  - first:
+      213: 6379848059619201960
+    second: Super Attack_142
+  - first:
+      213: -2034886355522362238
+    second: Super Attack_143
+  - first:
+      213: 8497444513905231478
+    second: Super Attack_144
+  - first:
+      213: -7008801449346548774
+    second: Super Attack_145
+  - first:
+      213: -2693334305385393698
+    second: Super Attack_146
+  - first:
+      213: -2035813536419279702
+    second: Super Attack_147
+  - first:
+      213: 6928834847903389583
+    second: Super Attack_148
+  - first:
+      213: -5059945678727231540
+    second: Super Attack_149
+  - first:
+      213: -8189561462349287087
+    second: Super Attack_150
+  - first:
+      213: 4161134767617986047
+    second: Super Attack_151
+  - first:
+      213: 1438323144316273111
+    second: Super Attack_152
+  - first:
+      213: -6577687593323444064
+    second: Super Attack_153
+  - first:
+      213: -137810069594824229
+    second: Super Attack_154
+  - first:
+      213: 5072685738611388510
+    second: Super Attack_155
+  - first:
+      213: -4893841664130112367
+    second: Super Attack_156
+  - first:
+      213: 2572409963008301763
+    second: Super Attack_157
+  - first:
+      213: 1925211864187095273
+    second: Super Attack_158
+  - first:
+      213: 3650524132927023753
+    second: Super Attack_159
+  - first:
+      213: 4651848973696669751
+    second: Super Attack_160
+  - first:
+      213: -9083390795347946243
+    second: Super Attack_161
+  - first:
+      213: 1526880125728743990
+    second: Super Attack_162
+  - first:
+      213: -2582080330878579715
+    second: Super Attack_163
+  - first:
+      213: -201506194882488378
+    second: Super Attack_164
+  - first:
+      213: 3634104470331676039
+    second: Super Attack_165
+  - first:
+      213: 1400935428985816152
+    second: Super Attack_166
+  - first:
+      213: -205877136453845658
+    second: Super Attack_167
+  - first:
+      213: -1501483948042651775
+    second: Super Attack_168
+  - first:
+      213: -6614837217100540321
+    second: Super Attack_169
+  - first:
+      213: -202042049771658871
+    second: Super Attack_170
+  - first:
+      213: 4050863840555039253
+    second: Super Attack_171
+  - first:
+      213: 8221606002394018767
+    second: Super Attack_172
+  - first:
+      213: 7887572125004866687
+    second: Super Attack_173
+  - first:
+      213: -8690360032089812449
+    second: Super Attack_174
+  - first:
+      213: 3129975681554648381
+    second: Super Attack_175
+  - first:
+      213: 5814269294620752812
+    second: Super Attack_176
+  - first:
+      213: 6894716208141059808
+    second: Super Attack_177
+  - first:
+      213: -1739495468810402470
+    second: Super Attack_178
+  - first:
+      213: 1928706062736436354
+    second: Super Attack_179
+  - first:
+      213: 7963633449765848022
+    second: Super Attack_180
+  - first:
+      213: 2425665915431509440
+    second: Super Attack_181
+  - first:
+      213: -7943194931882284325
+    second: Super Attack_182
+  - first:
+      213: 6998811513054831822
+    second: Super Attack_183
+  - first:
+      213: 2035911450082689114
+    second: Super Attack_184
+  - first:
+      213: 4264428834015130166
+    second: Super Attack_185
+  - first:
+      213: -1654686528470469539
+    second: Super Attack_186
+  - first:
+      213: -8478817381341814800
+    second: Super Attack_187
+  - first:
+      213: -8607736800725818536
+    second: Super Attack_188
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7cf9b5748912d0800000000000000
+      internalID: -3307466810160546413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dee4fd4ba1b0510800000000000000
+      internalID: 1516335063683231027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9afa7be92c43ddc0800000000000000
+      internalID: -3615462332920300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b529a515bb559bd0800000000000000
+      internalID: -2624090374562830919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0052f8304724ef0800000000000000
+      internalID: -125410280977661721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_5
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac35c207dc708fe00800000000000000
+      internalID: 1078620689686877130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff4bd0a6ad3beca0800000000000000
+      internalID: -5986623493786349574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8300105d4c1a160800000000000000
+      internalID: 7035120512053295350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0f5e3cf5a3c7790800000000000000
+      internalID: -7531080293887381275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb18236a79fb450800000000000000
+      internalID: 6106766359805411314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_10
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee6609c0d379270800000000000000
+      internalID: 8257135565978660521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_11
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec41020e9df9f30c0800000000000000
+      internalID: -4593777336777698098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dc360eace04030800000000000000
+      internalID: 3477039144503138375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7dbdbdb84d307b0800000000000000
+      internalID: -5259126242684446775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b43978044642cf0800000000000000
+      internalID: -277987048674866346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973838c781c2c97b0800000000000000
+      internalID: -5216245784722046087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f0e45a069376220800000000000000
+      internalID: 2479013207143747370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60a3ae03133a700800000000000000
+      internalID: 550337665627195129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66131916fc87b4ae0800000000000000
+      internalID: -1564023613490646682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba470796e45cc7b0800000000000000
+      internalID: -5202690120166716738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f14f6bd13b0a980800000000000000
+      internalID: -8529620754034843754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870650baa76ef2e0800000000000000
+      internalID: -2090119194252802166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_22
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c180a12bf9447c870800000000000000
+      internalID: 8703000257595312156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_23
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b859fb8986cd800800000000000000
+      internalID: 638500252438334309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d6679f192397890800000000000000
+      internalID: -7459875705225581246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aae27edc13ab550800000000000000
+      internalID: 6177304599308708417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811737d49b624a0d0800000000000000
+      internalID: -3412560040329776872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ecd4642b24c4d90800000000000000
+      internalID: -7112236378073739707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_28
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3792ff4003cceb0800000000000000
+      internalID: -4698327513235360783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_29
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d091fbb5dc32a40800000000000000
+      internalID: 5342339376923348339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc99ba169d3b9670800000000000000
+      internalID: 8546492432768408780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953596d7bfd039070800000000000000
+      internalID: 8111842727616402265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c0dade0e50c68d0800000000000000
+      internalID: -2851898000414012383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb0f3242c2cc260800000000000000
+      internalID: 7119113644699336444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc0cbb1221e9d980800000000000000
+      internalID: -8513526083956765445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Attack_35
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be9871390326a100800000000000000
+      internalID: 118820962563563192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8c30f9b49ac9314448e99ff1d72a88fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":544.0,"y":736.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Super Attack_0: -3307466810160546413
+      Super Attack_1: 1516335063683231027
+      Super Attack_10: 8257135565978660521
+      Super Attack_11: -4593777336777698098
+      Super Attack_12: 3477039144503138375
+      Super Attack_13: -5259126242684446775
+      Super Attack_14: -277987048674866346
+      Super Attack_15: -5216245784722046087
+      Super Attack_16: 2479013207143747370
+      Super Attack_17: 550337665627195129
+      Super Attack_18: -1564023613490646682
+      Super Attack_19: -5202690120166716738
+      Super Attack_2: -3615462332920300898
+      Super Attack_20: -8529620754034843754
+      Super Attack_21: -2090119194252802166
+      Super Attack_22: 8703000257595312156
+      Super Attack_23: 638500252438334309
+      Super Attack_24: -7459875705225581246
+      Super Attack_25: 6177304599308708417
+      Super Attack_26: -3412560040329776872
+      Super Attack_27: -7112236378073739707
+      Super Attack_28: -4698327513235360783
+      Super Attack_29: 5342339376923348339
+      Super Attack_3: -2624090374562830919
+      Super Attack_30: 8546492432768408780
+      Super Attack_31: 8111842727616402265
+      Super Attack_32: -2851898000414012383
+      Super Attack_33: 7119113644699336444
+      Super Attack_34: -8513526083956765445
+      Super Attack_35: 118820962563563192
+      Super Attack_4: -125410280977661721
+      Super Attack_5: 1078620689686877130
+      Super Attack_6: -5986623493786349574
+      Super Attack_7: 7035120512053295350
+      Super Attack_8: -7531080293887381275
+      Super Attack_9: 6106766359805411314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
