@@ -1,121 +1,475 @@
 fileFormatVersion: 2
-guid: 4e0bca113ba62534d88a8af739c6486f
+guid: 31b6bc3dcde12124aa15ef57adbd1c34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3022531806972022542
-    second: sprite-max-px-frames-25-rows-5-cols-5_0
+      213: -5385787780021285673
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_0
   - first:
-      213: 7705986495803884506
-    second: sprite-max-px-frames-25-rows-5-cols-5_1
+      213: -4362529401882496554
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_1
   - first:
-      213: 1604461111727536634
-    second: sprite-max-px-frames-25-rows-5-cols-5_2
+      213: -5516706302033929694
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_2
   - first:
-      213: 2232607183288990169
-    second: sprite-max-px-frames-25-rows-5-cols-5_3
+      213: 1575168184289522425
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_3
   - first:
-      213: -1280303592539585095
-    second: sprite-max-px-frames-25-rows-5-cols-5_4
+      213: 4317253367475852611
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_4
   - first:
-      213: 5394527453243003936
-    second: sprite-max-px-frames-25-rows-5-cols-5_5
+      213: -8125379655450392382
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_5
   - first:
-      213: -8243297242263616669
-    second: sprite-max-px-frames-25-rows-5-cols-5_6
+      213: 2622417579194007152
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_6
   - first:
-      213: 3229750926238883984
-    second: sprite-max-px-frames-25-rows-5-cols-5_7
+      213: 6824718588516825181
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_7
   - first:
-      213: -6857543499318857865
-    second: sprite-max-px-frames-25-rows-5-cols-5_8
+      213: -5032369575459500288
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_8
   - first:
-      213: 7501929492773353018
-    second: sprite-max-px-frames-25-rows-5-cols-5_9
+      213: -8973942652674631668
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_9
   - first:
-      213: -2597429891924011033
-    second: sprite-max-px-frames-25-rows-5-cols-5_10
+      213: 8116911528501369221
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_10
   - first:
-      213: 8263164324729572730
-    second: sprite-max-px-frames-25-rows-5-cols-5_11
+      213: -2743740621904053806
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_11
   - first:
-      213: -6788661273497677334
-    second: sprite-max-px-frames-25-rows-5-cols-5_12
+      213: 2646410920146259538
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_12
   - first:
-      213: -4438227341435655834
-    second: sprite-max-px-frames-25-rows-5-cols-5_13
+      213: 9039302261795978989
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_13
   - first:
-      213: 5528996117836751776
-    second: sprite-max-px-frames-25-rows-5-cols-5_14
+      213: 5603060548691789617
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_14
   - first:
-      213: -8861427544445525797
-    second: sprite-max-px-frames-25-rows-5-cols-5_15
+      213: -2126827752140538838
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_15
   - first:
-      213: -5970962949250252801
-    second: sprite-max-px-frames-25-rows-5-cols-5_16
+      213: 4019290158491454405
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_16
   - first:
-      213: 5727275615528003652
-    second: sprite-max-px-frames-25-rows-5-cols-5_17
+      213: -5516847062488957161
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_17
   - first:
-      213: -3211054717157101667
-    second: sprite-max-px-frames-25-rows-5-cols-5_18
+      213: -7090568816501643824
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_18
   - first:
-      213: 5975034000264284249
-    second: sprite-max-px-frames-25-rows-5-cols-5_19
+      213: 3639313144190340857
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_19
   - first:
-      213: 5744327830677903442
-    second: sprite-max-px-frames-25-rows-5-cols-5_20
+      213: -3109496975605197145
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_20
   - first:
-      213: 4505879211450327009
-    second: sprite-max-px-frames-25-rows-5-cols-5_21
+      213: 2488440800998694413
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_21
   - first:
-      213: -7963496990890903193
-    second: sprite-max-px-frames-25-rows-5-cols-5_22
+      213: -8411767004641915551
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_22
   - first:
-      213: -8944042549119903085
-    second: sprite-max-px-frames-25-rows-5-cols-5_23
+      213: 7489830566327073289
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_23
   - first:
-      213: -1473629502574736389
-    second: sprite-max-px-frames-25-rows-5-cols-5_24
+      213: 8105790232874298373
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_24
   - first:
-      213: -3489752933933161590
-    second: sprite-max-px-frames-25-rows-5-cols-5_25
+      213: -3033741325074776884
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_25
   - first:
-      213: -2742756634092673413
-    second: sprite-max-px-frames-25-rows-5-cols-5_26
+      213: -2024396199691508491
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_26
   - first:
-      213: 2640713894475752528
-    second: sprite-max-px-frames-25-rows-5-cols-5_27
+      213: 2693616507248791443
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_27
   - first:
-      213: -5222840827999993225
-    second: sprite-max-px-frames-25-rows-5-cols-5_28
+      213: -7936473656887302198
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_28
   - first:
-      213: 3520332465591552204
-    second: sprite-max-px-frames-25-rows-5-cols-5_29
+      213: -4062374475557125834
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_29
   - first:
-      213: 8469323079680041138
-    second: sprite-max-px-frames-25-rows-5-cols-5_30
+      213: 4936159481510014361
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_30
   - first:
-      213: 6793473579425046902
-    second: sprite-max-px-frames-25-rows-5-cols-5_31
+      213: -1412894867674711745
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_31
   - first:
-      213: 1483084788227968896
-    second: sprite-max-px-frames-25-rows-5-cols-5_32
+      213: 6495243502450517779
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_32
   - first:
-      213: -3101144758250181390
-    second: sprite-max-px-frames-25-rows-5-cols-5_33
+      213: 1880028155885770848
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_33
   - first:
-      213: 9135460204537437774
-    second: sprite-max-px-frames-25-rows-5-cols-5_34
+      213: 5929401100785506516
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_34
   - first:
-      213: -5206661879013904621
-    second: sprite-max-px-frames-25-rows-5-cols-5_35
+      213: -493909738239274388
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_35
   - first:
-      213: -8782155652356702620
-    second: sprite-max-px-frames-25-rows-5-cols-5_36
+      213: 5991265454459568801
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_36
   - first:
-      213: 8616053624208507501
-    second: sprite-max-px-frames-25-rows-5-cols-5_37
+      213: 8639419883014043039
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_37
+  - first:
+      213: 8510350577177583769
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_38
+  - first:
+      213: -7162332590989768440
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_39
+  - first:
+      213: -6711451842544973400
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_40
+  - first:
+      213: -5328230680662470849
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_41
+  - first:
+      213: 2719120143278218684
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_42
+  - first:
+      213: -452734867769524401
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_43
+  - first:
+      213: -2028176892516081444
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_44
+  - first:
+      213: 2317291979700474227
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_45
+  - first:
+      213: -5238578779914831856
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_46
+  - first:
+      213: -2447952175221750707
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_47
+  - first:
+      213: -6516651102574074542
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_48
+  - first:
+      213: -4219252092802307034
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_49
+  - first:
+      213: 3988132179600385858
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_50
+  - first:
+      213: 3341455904731693425
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_51
+  - first:
+      213: 3435835843982373089
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_52
+  - first:
+      213: 6222974438853895853
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_53
+  - first:
+      213: 5606408243187627225
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_54
+  - first:
+      213: -1360059608663365865
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_55
+  - first:
+      213: 2840283142757643074
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_56
+  - first:
+      213: -7004977749436727844
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_57
+  - first:
+      213: 7014336473150512549
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_58
+  - first:
+      213: 2348286118689405116
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_59
+  - first:
+      213: -4080280091737909180
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_60
+  - first:
+      213: -6657449934476990914
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_61
+  - first:
+      213: -2080410383046883623
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_62
+  - first:
+      213: -4525053733616297054
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_63
+  - first:
+      213: -3342951835058799236
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_64
+  - first:
+      213: 4451820837988003353
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_65
+  - first:
+      213: 7975485201536271324
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_66
+  - first:
+      213: -6869669843614334159
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_67
+  - first:
+      213: 4626399780828338245
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_68
+  - first:
+      213: 7414391457929248875
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_69
+  - first:
+      213: -591298724521961939
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_70
+  - first:
+      213: -7725453639087216527
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_71
+  - first:
+      213: -1023234751905310620
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_72
+  - first:
+      213: 3983438851719256410
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_73
+  - first:
+      213: 784760770840797611
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_74
+  - first:
+      213: -6028789553546320827
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_75
+  - first:
+      213: 2157795745261459341
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_76
+  - first:
+      213: -5205022771899828977
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_77
+  - first:
+      213: -5874004237472316549
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_78
+  - first:
+      213: -4659352452431348333
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_79
+  - first:
+      213: -3312833246266982593
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_80
+  - first:
+      213: -1482729053133423603
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_81
+  - first:
+      213: 8251432282378686303
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_82
+  - first:
+      213: -5305465602097032970
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_83
+  - first:
+      213: 6851249437349702226
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_84
+  - first:
+      213: -1442167836955955428
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_85
+  - first:
+      213: -4472419689445532540
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_86
+  - first:
+      213: -4786545927469635562
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_87
+  - first:
+      213: 4095910770415643860
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_88
+  - first:
+      213: 3664979045121258989
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_89
+  - first:
+      213: 3574777037178956799
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_90
+  - first:
+      213: 4857192745805242547
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_91
+  - first:
+      213: 8022527800557658372
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_92
+  - first:
+      213: -136544259431527863
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_93
+  - first:
+      213: -4418434635146206902
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_94
+  - first:
+      213: 1097613807999610780
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_95
+  - first:
+      213: -727968790690315918
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_96
+  - first:
+      213: -346783522955684927
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_97
+  - first:
+      213: -553217835779017312
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_98
+  - first:
+      213: -2883319910866506809
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_99
+  - first:
+      213: 2555259055667746054
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_100
+  - first:
+      213: 7322613526325299923
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_101
+  - first:
+      213: -8535505276814356065
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_102
+  - first:
+      213: 4901047502140278169
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_103
+  - first:
+      213: 6184250657859837201
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_104
+  - first:
+      213: -7686979362082358958
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_105
+  - first:
+      213: -8174206078723034985
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_106
+  - first:
+      213: -1098526585262970607
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_107
+  - first:
+      213: -5516338818714460666
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_108
+  - first:
+      213: -3499168237488392161
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_109
+  - first:
+      213: 6029815352544197814
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_110
+  - first:
+      213: -7144470490440336530
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_111
+  - first:
+      213: 6125624368606029658
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_112
+  - first:
+      213: -4450704753931247729
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_113
+  - first:
+      213: -2223762183355916480
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_114
+  - first:
+      213: 2467304776331140420
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_115
+  - first:
+      213: 4802260247414376460
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_116
+  - first:
+      213: 2998108099434265115
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_117
+  - first:
+      213: 3208673102696684175
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_118
+  - first:
+      213: -1600145855546933474
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_119
+  - first:
+      213: 1264466430860078193
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_120
+  - first:
+      213: -2067598358183069613
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_121
+  - first:
+      213: 7803175089381441901
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_122
+  - first:
+      213: 1188481438096058679
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_123
+  - first:
+      213: 468870653004205067
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_124
+  - first:
+      213: -8551120353075701848
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_125
+  - first:
+      213: 6249298028503148383
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_126
+  - first:
+      213: -4523907379545048768
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_127
+  - first:
+      213: -8536581662296142288
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_128
+  - first:
+      213: 4422403986780048746
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_129
+  - first:
+      213: 1171531408819196839
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_130
+  - first:
+      213: -7590749662972401418
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_131
+  - first:
+      213: -2375288944340103276
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_132
+  - first:
+      213: 7125926862769818755
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_133
+  - first:
+      213: -3390959769524555549
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_134
+  - first:
+      213: 3732512456664293707
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_135
+  - first:
+      213: 945953821293197735
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_136
+  - first:
+      213: -4437572025733902018
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_137
+  - first:
+      213: 4720811152117183990
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_138
+  - first:
+      213: -3171849120193692640
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_139
+  - first:
+      213: -2109785261030148457
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_140
+  - first:
+      213: -284729469634520781
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_141
+  - first:
+      213: -8254533370134099835
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_142
+  - first:
+      213: -2330478096326134927
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_143
+  - first:
+      213: -7493420565207040362
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_144
+  - first:
+      213: 62888624313554990
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_145
+  - first:
+      213: -2234654433275853308
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_146
+  - first:
+      213: 1422317485246338300
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_147
+  - first:
+      213: -4439758546717265308
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_148
+  - first:
+      213: 6990630190653464002
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_149
+  - first:
+      213: -3515110325137819625
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_150
+  - first:
+      213: -3645072411227818416
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_151
+  - first:
+      213: -3505109191601095974
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_152
+  - first:
+      213: -3992909519122003982
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_153
+  - first:
+      213: 111325748969620192
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_154
+  - first:
+      213: 692605857314198441
+    second: sprite-max-px-frames-36-rows-6-cols-6 (3)_155
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -148,7 +502,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -159,10 +513,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 140
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -186,7 +540,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -224,837 +578,793 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_0
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 2285
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0f03e41aa032f920800000000000000
-      internalID: 3022531806972022542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_1
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 2132
-        width: 492
-        height: 452
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad3095ec3e921fa60800000000000000
-      internalID: 7705986495803884506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_2
-      rect:
-        serializedVersion: 2
-        x: 564
-        y: 2285
-        width: 22
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af9b27c51e0344610800000000000000
-      internalID: 1604461111727536634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_3
-      rect:
-        serializedVersion: 2
-        x: 568
-        y: 2132
-        width: 494
-        height: 452
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d9fce28760dbfe10800000000000000
-      internalID: 2232607183288990169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_4
-      rect:
-        serializedVersion: 2
-        x: 1103
-        y: 2285
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b5850a7aa27b3ee0800000000000000
-      internalID: -1280303592539585095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_5
-      rect:
-        serializedVersion: 2
-        x: 1110
-        y: 2132
-        width: 495
-        height: 451
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02454a523263dda40800000000000000
-      internalID: 5394527453243003936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_6
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 2286
-        width: 22
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3638be045dce99d80800000000000000
-      internalID: -8243297242263616669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_7
-      rect:
-        serializedVersion: 2
-        x: 1650
-        y: 2132
-        width: 497
-        height: 450
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 090257ffa5162dc20800000000000000
-      internalID: 3229750926238883984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_8
-      rect:
-        serializedVersion: 2
-        x: 2183
-        y: 2288
-        width: 22
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77f6f4b258c15d0a0800000000000000
-      internalID: -6857543499318857865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_9
-      rect:
-        serializedVersion: 2
-        x: 2189
-        y: 2132
-        width: 501
-        height: 450
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3638c270253c1860800000000000000
-      internalID: 7501929492773353018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_10
-      rect:
-        serializedVersion: 2
-        x: 1109
-        y: 2275
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e753ea664314fbd0800000000000000
-      internalID: -2597429891924011033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_11
-      rect:
-        serializedVersion: 2
-        x: 1648
-        y: 2275
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7dcf285c28aca270800000000000000
-      internalID: 8263164324729572730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_12
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 1608
-        width: 510
-        height: 450
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae158b42a84d9c1a0800000000000000
-      internalID: -6788661273497677334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_13
-      rect:
-        serializedVersion: 2
-        x: 553
-        y: 1608
-        width: 512
-        height: 451
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6692d496fbf3862c0800000000000000
-      internalID: -4438227341435655834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_14
-      rect:
-        serializedVersion: 2
-        x: 1092
-        y: 1608
-        width: 516
-        height: 451
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a36c20eca0fabc40800000000000000
-      internalID: 5528996117836751776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_15
-      rect:
-        serializedVersion: 2
-        x: 1631
-        y: 1608
-        width: 518
-        height: 453
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd066722992e50580800000000000000
-      internalID: -8861427544445525797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_16
-      rect:
-        serializedVersion: 2
-        x: 2170
-        y: 1608
-        width: 520
-        height: 458
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fff7bea45d0e22da0800000000000000
-      internalID: -5970962949250252801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_17
+      name: Walk_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1084
-        width: 522
-        height: 461
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 448ad42f3de5b7f40800000000000000
-      internalID: 5727275615528003652
+      spriteID: 7a1892b04ae670c4daf3129fbb3234d8
+      internalID: -1069605027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_18
+      name: Walk_1
       rect:
         serializedVersion: 2
-        x: 542
-        y: 1084
-        width: 521
-        height: 465
+        x: 558
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d9f22856fba0073d0800000000000000
-      internalID: -3211054717157101667
+      spriteID: f6cc1fc320afeef4a9ca9b982a3ef200
+      internalID: -1372529815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_19
+      name: Walk_2
       rect:
         serializedVersion: 2
-        x: 1084
-        y: 1084
-        width: 519
-        height: 470
+        x: 1116
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 95842a224c59be250800000000000000
-      internalID: 5975034000264284249
+      spriteID: e69779e631dd7c2499527ea26e6b2bdc
+      internalID: 1156641054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_20
+      name: Walk_3
       rect:
         serializedVersion: 2
-        x: 1627
-        y: 1084
-        width: 517
-        height: 475
+        x: 1674
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25852fc2ab3f7bf40800000000000000
-      internalID: 5744327830677903442
+      spriteID: fcd14fd9ef20d3040895da2e37302b5a
+      internalID: 868595446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_21
+      name: Walk_4
       rect:
         serializedVersion: 2
-        x: 2170
-        y: 1084
-        width: 515
-        height: 479
+        x: 2232
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ef50570549188e30800000000000000
-      internalID: 4505879211450327009
+      spriteID: 3395cc2086f9add41b76a216369e87f1
+      internalID: 1241195321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_22
+      name: Walk_5
       rect:
         serializedVersion: 2
-        x: 4
-        y: 560
-        width: 513
-        height: 482
+        x: 2790
+        y: 2290
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7693e00eda9fb7190800000000000000
-      internalID: -7963496990890903193
+      spriteID: d82cc2f831c4ff541baa5c7904fa7fef
+      internalID: -1193756889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_23
+      name: Walk_6
       rect:
         serializedVersion: 2
-        x: 552
-        y: 560
-        width: 505
-        height: 487
+        x: 0
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 39a9abb60b060e380800000000000000
-      internalID: -8944042549119903085
+      spriteID: 65c1634bf97c94249a48d6b8cf1fd4a4
+      internalID: 723688296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_24
+      name: Walk_7
       rect:
         serializedVersion: 2
-        x: 1098
-        y: 560
-        width: 500
-        height: 488
+        x: 558
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bfb4f7866cd9c8be0800000000000000
-      internalID: -1473629502574736389
+      spriteID: 17a06448164b0404b9428d21ce0a95ba
+      internalID: 1200710823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_25
+      name: Walk_8
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 560
-        width: 496
-        height: 489
+        x: 1116
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8369033238e19fc0800000000000000
-      internalID: -3489752933933161590
+      spriteID: 2af81d98da982a24da547db0c5075478
+      internalID: 881790866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_26
+      name: Walk_9
       rect:
         serializedVersion: 2
-        x: 2188
-        y: 559
-        width: 491
-        height: 489
+        x: 1674
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b766f8f7f55cfe9d0800000000000000
-      internalID: -2742756634092673413
+      spriteID: d0fd80b0ad2854c489d6c0a950c1dbec
+      internalID: 1674003078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_27
+      name: Walk_10
       rect:
         serializedVersion: 2
-        x: 2664
-        y: 727
-        width: 17
-        height: 15
+        x: 2232
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0546aa1cb43b5a420800000000000000
-      internalID: 2640713894475752528
+      spriteID: 97d630ef53968444a8f2132cf97e72e3
+      internalID: 1020775053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_28
+      name: Walk_11
       rect:
         serializedVersion: 2
-        x: 24
-        y: 35
-        width: 485
-        height: 489
+        x: 2790
+        y: 1832
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77247a050fdb487b0800000000000000
-      internalID: -5222840827999993225
+      spriteID: 735cb4858c0d9f64d82b8127e94081d1
+      internalID: -909299140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_29
+      name: Walk_12
       rect:
         serializedVersion: 2
-        x: 498
-        y: 197
-        width: 16
-        height: 15
+        x: 0
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc80cd6d9bbbad030800000000000000
-      internalID: 3520332465591552204
+      spriteID: dd86eb522637148459e24e307f0ec035
+      internalID: 1988671861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_30
+      name: Walk_13
       rect:
         serializedVersion: 2
-        x: 569
-        y: 34
-        width: 480
-        height: 489
+        x: 558
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2b0a854f774198570800000000000000
-      internalID: 8469323079680041138
+      spriteID: 246772e6e15f2504187131722a8d873d
+      internalID: -1504591789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_31
+      name: Walk_14
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 192
-        width: 17
-        height: 15
+        x: 1116
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 671a1a42a34474e50800000000000000
-      internalID: 6793473579425046902
+      spriteID: 498e2f0da3d29e3449a7524feaa13c8e
+      internalID: -545299676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_32
+      name: Walk_15
       rect:
         serializedVersion: 2
-        x: 1111
-        y: 33
-        width: 480
-        height: 489
+        x: 1674
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08f0d16d1c9f49410800000000000000
-      internalID: 1483084788227968896
+      spriteID: e0e3d997b8c1d5f489179d7e1a2a639c
+      internalID: 430910252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_33
+      name: Walk_16
       rect:
         serializedVersion: 2
-        x: 1584
-        y: 187
-        width: 17
-        height: 15
+        x: 2232
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2fcee6fd54586f4d0800000000000000
-      internalID: -3101144758250181390
+      spriteID: 3c5ecb39189ff3945b39f7417f2cd154
+      internalID: -341515224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_34
+      name: Walk_17
       rect:
         serializedVersion: 2
-        x: 1653
-        y: 30
-        width: 479
-        height: 491
+        x: 2790
+        y: 1374
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e4edb2f77aca7ce70800000000000000
-      internalID: 9135460204537437774
+      spriteID: e02ff4665bc51b347ab4f40256a20470
+      internalID: 763841125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_35
+      name: Walk_18
       rect:
         serializedVersion: 2
-        x: 2195
-        y: 27
-        width: 480
-        height: 490
+        x: 0
+        y: 916
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 31feecb6b983eb7b0800000000000000
-      internalID: -5206661879013904621
+      spriteID: efb2ac4e856f49b418f31dddeaaaa4f7
+      internalID: 997632469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_36
+      name: Walk_19
       rect:
         serializedVersion: 2
-        x: 2127
-        y: 182
-        width: 17
-        height: 14
+        x: 558
+        y: 916
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 46ef61bc6f38f1680800000000000000
-      internalID: -8782155652356702620
+      spriteID: 49a5343647e7a844f8311753fded8035
+      internalID: 1287095532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite-max-px-frames-25-rows-5-cols-5_37
+      name: Walk_20
       rect:
         serializedVersion: 2
-        x: 2671
-        y: 174
-        width: 18
-        height: 12
+        x: 1116
+        y: 916
+        width: 558
+        height: 458
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d624aa41f1f529770800000000000000
-      internalID: 8616053624208507501
+      spriteID: add4e45aedcd1bc4e9d9e46798f795c4
+      internalID: 1499984211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 916
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f56af985e46c4b9d3fea5b540d760
+      internalID: 102842694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_22
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 916
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8efcfd8111ba75428c2f1f19ec170d1
+      internalID: -718079651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_23
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 916
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37b6c52e0b671409f732d1623f8b14
+      internalID: -954802594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18f679dc4881943a787cbfc7c0f45f
+      internalID: -1347128195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_25
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638c228f7e20754d8390edd64aec6ea
+      internalID: -962484636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_26
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116556d3c253df242a00b48dec21ebfd
+      internalID: 829176925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_27
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e04bf397ac3a4aaa00151da0fad6b
+      internalID: 1874475022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_28
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113559f9f95da5249a9da30594669602
+      internalID: -378343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_29
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 458
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc06c0e0a7c834c8ef30d04dea6ad2
+      internalID: 1857989865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a01387b6144e742bef91184928fd76
+      internalID: 396855918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_31
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf71a9e1e309e45b5d4be2a94c0211
+      internalID: -709077992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_32
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e31124c20dae5499a7d605a431721f
+      internalID: -1750660473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_33
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891422de65a263548a24337c858767f5
+      internalID: -1840573442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_34
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5361cd1f5c5564a8fddfc7b7a3d6b3
+      internalID: 2017515182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_35
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 0
+        width: 558
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60766078bfcfd354685f612ed47ec5c4
+      internalID: 1385820422
       vertices: []
       indices: 
       edges: []
@@ -1063,7 +1373,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 783c80ca076570144ba035cd53857b03
     internalID: 0
     vertices: []
     indices: 
@@ -1071,46 +1381,46 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":558.0,"y":458.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      sprite-max-px-frames-25-rows-5-cols-5_0: 3022531806972022542
-      sprite-max-px-frames-25-rows-5-cols-5_1: 7705986495803884506
-      sprite-max-px-frames-25-rows-5-cols-5_10: -2597429891924011033
-      sprite-max-px-frames-25-rows-5-cols-5_11: 8263164324729572730
-      sprite-max-px-frames-25-rows-5-cols-5_12: -6788661273497677334
-      sprite-max-px-frames-25-rows-5-cols-5_13: -4438227341435655834
-      sprite-max-px-frames-25-rows-5-cols-5_14: 5528996117836751776
-      sprite-max-px-frames-25-rows-5-cols-5_15: -8861427544445525797
-      sprite-max-px-frames-25-rows-5-cols-5_16: -5970962949250252801
-      sprite-max-px-frames-25-rows-5-cols-5_17: 5727275615528003652
-      sprite-max-px-frames-25-rows-5-cols-5_18: -3211054717157101667
-      sprite-max-px-frames-25-rows-5-cols-5_19: 5975034000264284249
-      sprite-max-px-frames-25-rows-5-cols-5_2: 1604461111727536634
-      sprite-max-px-frames-25-rows-5-cols-5_20: 5744327830677903442
-      sprite-max-px-frames-25-rows-5-cols-5_21: 4505879211450327009
-      sprite-max-px-frames-25-rows-5-cols-5_22: -7963496990890903193
-      sprite-max-px-frames-25-rows-5-cols-5_23: -8944042549119903085
-      sprite-max-px-frames-25-rows-5-cols-5_24: -1473629502574736389
-      sprite-max-px-frames-25-rows-5-cols-5_25: -3489752933933161590
-      sprite-max-px-frames-25-rows-5-cols-5_26: -2742756634092673413
-      sprite-max-px-frames-25-rows-5-cols-5_27: 2640713894475752528
-      sprite-max-px-frames-25-rows-5-cols-5_28: -5222840827999993225
-      sprite-max-px-frames-25-rows-5-cols-5_29: 3520332465591552204
-      sprite-max-px-frames-25-rows-5-cols-5_3: 2232607183288990169
-      sprite-max-px-frames-25-rows-5-cols-5_30: 8469323079680041138
-      sprite-max-px-frames-25-rows-5-cols-5_31: 6793473579425046902
-      sprite-max-px-frames-25-rows-5-cols-5_32: 1483084788227968896
-      sprite-max-px-frames-25-rows-5-cols-5_33: -3101144758250181390
-      sprite-max-px-frames-25-rows-5-cols-5_34: 9135460204537437774
-      sprite-max-px-frames-25-rows-5-cols-5_35: -5206661879013904621
-      sprite-max-px-frames-25-rows-5-cols-5_36: -8782155652356702620
-      sprite-max-px-frames-25-rows-5-cols-5_37: 8616053624208507501
-      sprite-max-px-frames-25-rows-5-cols-5_4: -1280303592539585095
-      sprite-max-px-frames-25-rows-5-cols-5_5: 5394527453243003936
-      sprite-max-px-frames-25-rows-5-cols-5_6: -8243297242263616669
-      sprite-max-px-frames-25-rows-5-cols-5_7: 3229750926238883984
-      sprite-max-px-frames-25-rows-5-cols-5_8: -6857543499318857865
-      sprite-max-px-frames-25-rows-5-cols-5_9: 7501929492773353018
+      Walk_0: -1069605027
+      Walk_1: -1372529815
+      Walk_10: 1020775053
+      Walk_11: -909299140
+      Walk_12: 1988671861
+      Walk_13: -1504591789
+      Walk_14: -545299676
+      Walk_15: 430910252
+      Walk_16: -341515224
+      Walk_17: 763841125
+      Walk_18: 997632469
+      Walk_19: 1287095532
+      Walk_2: 1156641054
+      Walk_20: 1499984211
+      Walk_21: 102842694
+      Walk_22: -718079651
+      Walk_23: -954802594
+      Walk_24: -1347128195
+      Walk_25: -962484636
+      Walk_26: 829176925
+      Walk_27: 1874475022
+      Walk_28: -378343138
+      Walk_29: 1857989865
+      Walk_3: 868595446
+      Walk_30: 396855918
+      Walk_31: -709077992
+      Walk_32: -1750660473
+      Walk_33: -1840573442
+      Walk_34: 2017515182
+      Walk_35: 1385820422
+      Walk_4: 1241195321
+      Walk_5: -1193756889
+      Walk_6: 723688296
+      Walk_7: 1200710823
+      Walk_8: 881790866
+      Walk_9: 1674003078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
