@@ -78,7 +78,8 @@ public class EnemyController : MonoBehaviour
             col.bounds.center.x + col.bounds.extents.x * direction,
             col.bounds.center.y);
 
-        if (!Physics2D.Raycast(point, Vector2.down, col.bounds.extents.y * 1.1f, floorLayers))
+        if (!Physics2D.Raycast(point, Vector2.down, col.bounds.extents.y * 1.1f, floorLayers) ||
+            Physics2D.Raycast(point, Vector2.right * direction, 0.1f, floorLayers))
         {
             direction *= -1;
             transform.localScale = new Vector2(direction, 1);

@@ -58,14 +58,14 @@ MonoBehaviour:
   chaseDistance: 5
   attackDistance: 2
   attackDuration: 2
-  hitDuration: 3
+  hitDuration: 0.25
   deathDuration: 3
   attackPoint: {fileID: 3933938048674334102}
   attackFX: {fileID: 6710139492206580332, guid: 95b8d3d65b5d7f1409c4ed1723887826, type: 3}
   attackHitFX: {fileID: 6823200998282874702, guid: 8f8fe12323625f5499b2853dd2ad3e58, type: 3}
   hitFX: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0, type: 3}
   deathFX: {fileID: 5642766282230003982, guid: b5c8ca7ed10b61e499cce8ec3b6e2e4c, type: 3}
-  hp: 1
+  hp: 4
 --- !u!50 &5901184059895787973
 Rigidbody2D:
   serializedVersion: 5
@@ -82,7 +82,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: dce83e463ba0c494592076bf19c6be62, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -103,7 +103,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: dce83e463ba0c494592076bf19c6be62, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 9218518635744060887}
   - component: {fileID: 7961830744920574926}
   - component: {fileID: 1204164482245347171}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: DamageZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
